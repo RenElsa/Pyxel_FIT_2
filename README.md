@@ -5,4 +5,4 @@ Balls are released from the top at a random speed, and the angle between 30 and 
 The board use to catch the ball is 40 pixels wide.
 Sounds played when the ball got catched or missed.
 
-Made by my crush, ROYCE CHEYENNE
+Made by my crush, ROCI
